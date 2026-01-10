@@ -1,34 +1,32 @@
-# React Calculator App
+# React Calculator
 
-This is a simple and clean **Calculator UI** built using **React** and **Tailwind CSS**.
+A simple and responsive calculator built with **React.js**.  
+Supports basic arithmetic operations and displays the calculation expression in real-time.
 
-## 🚀 Features
-- Modern calculator UI
-- Grid-based button layout
-- Responsive design
-- Built with React functional components
-- Styled using Tailwind CSS
+---
 
-## 🛠️ Tech Stack
-- React
-- Tailwind CSS
-- Vite
+## Features
 
-## 📸 Preview
-Calculator UI includes:
-- Display screen
-- Number buttons (0–9)
-- Operators (+, -, *, /)
-- Clear All button
-- Equal (=) button
+- Basic operations: `Addition (+)`, `Subtraction (-)`, `Multiplication (*)`, `Division (/)`
+- Real-time display of input and expression
+- Decimal support `.`
+- Clear all functionality
+- Responsive UI using **Tailwind CSS**
+- Expression and result shown separately
 
-> Calculator logic will be added in the next phase.
 
-## 📂 Project Status
-✅ UI Completed  
-⏳ Logic in Progress
 
-## 📌 How to Run Locally
+## Technologies Used
+
+- React.js (Functional Components & Hooks)
+- Tailwind CSS for styling
+- JavaScript
+
+---
+
+## Installation
+
+1. Clone the repo:
+
 ```bash
-npm install
-npm run dev
+git clone https://github.com/msoyabcode/react-calculator.git
