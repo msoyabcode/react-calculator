@@ -78,7 +78,7 @@ const App = () => {
   const sign = "bg-amber-700 text-xl sm:text-3xl w-full h-14 sm:h-16 flex justify-center items-center rounded-xl shadow-2xl active:bg-amber-800 cursor-pointer active:scale-95 transition-all"
 
   return (
-    <div  className='  h-screen flex justify-center items-center '>
+    <div  className='h-screen flex justify-center items-center '>
       {/* Calculator */}
       <div className=' text-white w-[95%]  md:w-[620px] h-auto bg-gray-800 rounded-2xl flex justify-center flex-col pb-10'>
 
@@ -91,7 +91,7 @@ const App = () => {
           <div className='text-4xl sm:text-6xl md:text-7xl font-semibold text-right'>
             {display}
           </div>
-       </div> ̰
+       </div> 
        
         {/* Buttons Section */}
         <div className='grid grid-cols-4 w-[90%] gap-3 sm:gap-5 md:gap-6 mt-8  mx-auto'>
